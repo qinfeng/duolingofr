@@ -1,65 +1,65 @@
- "Bonus Episode: Ask Me Anything — Your Listener Questions Answered"                            "https://podcast.duolingo.com/bonus-episode-ask-me-anything-your-listener-questions-answered"
- "Episode 1: Le magicien des baguettes (The Baguette Magician)"                                 "https://podcast.duolingo.com/episode-1-le-magicien-des-baguettes-the-baguette-magician"
- "Episode 2: Entre deux mondes (Between Two Worlds)"                                            "https://podcast.duolingo.com/episode-2-entre-deux-mondes-between-two-worlds"
- "Episode 3: Partir du paradis (Leaving Paradise)"                                              "https://podcast.duolingo.com/episode-3-partir-du-paradis-leaving-paradise"
- "Episode 4: Le vigneron rebelle (The Rebel Winemaker)"                                         "https://podcast.duolingo.com/episode-4-le-vigneron-rebelle-the-rebel-winemaker"
- "Episode 5: Le paysan (The Countryman)"                                                        "https://podcast.duolingo.com/episode-5-le-paysan-the-countryman"
- "Episode 6: Le surfeur sans limites (The Surfer Without Limits)"                               "https://podcast.duolingo.com/episode-6-le-surfeur-sans-limites-the-surfer-without-limits"
- "Episode 7: La mélodie de la Martinique (The Sound of Martinique)"                             "https://podcast.duolingo.com/episode-7-la-melodie-de-la-martinique-the-sound-of-martinique"
- "Episode 8: Comment je m’appelle ? (What’s My Name?)"                                          "https://podcast.duolingo.com/episode-8-comment-je-mappelle-whats-my-name"
- "Episode 9: Le pouvoir du foot (Soccer Power)"                                                 "https://podcast.duolingo.com/episode-9-le-pouvoir-du-foot-soccer-power"
- "Episode 10: La chasseuse de la particule (The Particle Hunter)"                               "https://podcast.duolingo.com/episode-10-la-chasseuse-de-la-particule-the-particle-hunter"
- "Episode 11: Le clown « undercover » (The Undercover Clown)"                                   "https://podcast.duolingo.com/episode-11-le-clown-undercover-the-undercover-clown"
- "Episode 12: L’amour après le deuil (Love After Grief)"                                        "https://podcast.duolingo.com/episode-12-lamour-apres-le-deuil-love-after-grief"
- "Episode 13: Héros malgré eux (The Unlikely Heroes)"                                           "https://podcast.duolingo.com/episode-13-heros-malgre-eux-the-unlikely-heroes"
- "Episode 14: La championne du fromage (The Cheese Champion)"                                   "https://podcast.duolingo.com/episode-14-la-championne-du-fromage-the-cheese-champion"
- "Episode 15: L’aquanaute (The Aquanaut)"                                                       "https://podcast.duolingo.com/episode-15-laquanaute-the-aquanaut"
- "Episode 16: Rêves d’une Karateka (Karate Dreams)"                                             "https://podcast.duolingo.com/episode-16-reves-dune-karateka-karate-dreams"
- "Episode 17: En scène avec Jacques Brel (In the Spotlight with Jacques Brel)"                  "https://podcast.duolingo.com/episode-17-en-scene-avec-jacques-brel-in-the-spotlight-with-jacques-brel"
- "Episode 18: Surfer au Sénégal (Surfing in Senegal)"                                           "https://podcast.duolingo.com/episode-18-surfer-au-senegal-surfing-in-senegal"
- "Episode 19: Le Top Chef (The Top Chef)"                                                       "https://podcast.duolingo.com/episode-19-le-top-chef-the-top-chef"
- "Episode 20: Dessiner un nouveau départ (Drawing a New Beginning)"                             "https://podcast.duolingo.com/episode-20-dessiner-un-nouveau-depart-drawing-a-new-beginning"
- "Episode 21: Trouver sa voix (Speaking Out)"                                                   "https://podcast.duolingo.com/episode-21-trouver-sa-voix-speaking-out"
- "Episode 22: Une chanson révolutionnaire (A Song of Revolution)"                               "https://podcast.duolingo.com/episode-22-une-chanson-revolutionnaire-a-song-of-revolution"
- "Episode 23: La course au sommet de la tour Eiffel (The Race to the Top of the Eiffel Tower)"  "https://podcast.duolingo.com/episode-23-la-course-au-sommet-de-la-tour-eiffel-the-race-to-the-top-of-the-eiffel-tower"
- "Episode 24: Le boulanger de l’Afghanistan (The Baker from Afghanistan)"                       "https://podcast.duolingo.com/episode-24-le-boulanger-de-lafghanistan-the-baker-from-afghanistan"
- "Episode 25: Défier un dictateur (Defying a Dictator)"                                         "https://podcast.duolingo.com/episode-25-defier-un-dictateur-defying-a-dictator"
- "Episode 26: La joie du cancan (The Joy of Cancan)"                                            "https://podcast.duolingo.com/episode-26-la-joie-du-cancan-the-joy-of-cancan"
- "Episode 27: Le caporal canadien-français (The French Canadian Corporal)"                      "https://podcast.duolingo.com/episode-27-le-caporal-canadien-francais-the-french-canadian-corporal"
- "Episode 28: Le nom caché (The Hidden Name)"                                                   "https://podcast.duolingo.com/episode-28-le-nom-cache-the-hidden-name"
- "Episode 29: Le petit apiculteur (The Beekeeper Kid)"                                          "https://podcast.duolingo.com/episode-29-le-petit-apiculteur-the-beekeeper-kid"
- "Episode 30: Les santons de Noël (The Little Christmas Figures)"                               "https://podcast.duolingo.com/episode-30-les-santons-de-noel-the-little-christmas-figures"
- "Episode 31: Les moines brasseurs (The Beer-Brewing Monks)"                                    "https://podcast.duolingo.com/episode-31-les-moines-brasseurs-the-beer-brewing-monks"
- "Episode 32: 38 gamins (38 kids)"                                                              "https://podcast.duolingo.com/episode-32-38-gamins-38-kids"
- "Episode 33: L’amour et les chevaux sauvages (Love and Wild Horses)"                           "https://podcast.duolingo.com/episode-33-lamour-et-les-chevaux-sauvages-love-and-wild-horses"
- "Episode 34: La coureuse de Bamako (The Runner from Bamako)"                                   "https://podcast.duolingo.com/episode-34-la-coureuse-de-bamako-the-runner-from-bamako"
- "Episode 35: La voix de la France (The Voice of France)"                                       "https://podcast.duolingo.com/episode-35-la-voix-de-la-france-the-voice-of-france"
- "Episode 36: Les rebelles écolos (The Eco Rebels)"                                             "https://podcast.duolingo.com/episode-36-les-rebelles-ecolos-the-eco-rebels"
- "Episode 37: Étretat, mon amour (Étretat, My Love)"                                            "https://podcast.duolingo.com/episode-37-etretat-mon-amour-etretat-my-love"
- "Episode 38: Lyon, mon amour (Lyon, My Love)"                                                  "https://podcast.duolingo.com/episode-38-lyon-mon-amour-lyon-my-love"
- "Episode 39: Lausanne, mon amour (Lausanne, My Love)"                                          "https://podcast.duolingo.com/episode-39-lausanne-mon-amour-lausanne-my-love"
- "Episode 40: Madagascar, mon amour (Madagascar, My Love)"                                      "https://podcast.duolingo.com/episode-40-madagascar-mon-amour-madagascar-my-love"
- "Episode 41: Mont-Saint-Michel, mon amour (Mont-Saint-Michel, My Love)"                        "https://podcast.duolingo.com/episode-41-mont-saint-michel-mon-amour-mont-saint-michel-my-love"
- "Episode 42: Polynésie, mon amour (Polynesia, My Love)"                                        "https://podcast.duolingo.com/episode-42-polynesie-mon-amour-polynesia-my-love"
- "Episode 43: Une visite guidée du Paris noir (A Tour of Black Paris)"                          "https://podcast.duolingo.com/episode-43-une-visite-guidee-du-paris-noir-a-tour-of-black-paris"
- "Episode 44: Le plus jeune maire de France (The Youngest Mayor in France)"                     "https://podcast.duolingo.com/episode-44-le-plus-jeune-maire-de-france-the-youngest-mayor-in-france"
- "Episode 45: Changer de camp (Switching Sides)"                                                "https://podcast.duolingo.com/episode-45-changer-de-camp-switching-sides"
- "Episode 46: La chanteuse des îles (The Island Singer)"                                        "https://podcast.duolingo.com/episode-46-la-chanteuse-des-iles-the-island-singer"
- "Episode 47: L’élève courageuse (The Courageous Student)"                                      "https://podcast.duolingo.com/episode-47-leleve-courageuse-the-courageous-student"
- "Episode 48: La comédienne de balcon (The Balcony Performer)"                                  "https://podcast.duolingo.com/episode-48-la-comedienne-de-balcon-the-balcony-performer"
- "Episode 49: Reconstruire le travail d’une vie (Rebuilding a Life’s Work)"                     "https://podcast.duolingo.com/episode-49-reconstruire-le-travail-dune-vie-rebuilding-a-lifes-work"
- "Episode 50: Le grand pari (The Big Gamble)"                                                   "https://podcast.duolingo.com/episode-50-le-grand-pari-the-big-gamble"
- "Episode 51: La reine du codage (The Coding Queen)"                                            "https://podcast.duolingo.com/episode-51-la-reine-du-codage-the-coding-queen"
- "Episode 52: The Making of a Thief - The Rebel Thief, Episode 1"                               "https://podcast.duolingo.com/episode-52-the-making-of-a-thief-the-rebel-thief-episode-1"
- "Episode 53: The First Heist - The Rebel Thief, Episode 2"                                     "https://podcast.duolingo.com/episode-53-the-first-heist-the-rebel-thief-episode-2"
- "Episode 54: The Night Crew - The Rebel Thief, Episode 3"                                      "https://podcast.duolingo.com/episode-54-the-night-crew-the-rebel-thief-episode-3"
- "Episode 55: To Catch a Thief - The Rebel Thief, Episode 4"                                    "https://podcast.duolingo.com/episode-55-to-catch-a-thief-the-rebel-thief-episode-4"
- "Episode 56: The Trial - The Rebel Thief, Episode 5"                                           "https://podcast.duolingo.com/episode-56-the-trial-the-rebel-thief-episode-5"
- "Episode 57: The Final Escape - The Rebel Thief, Episode 6"                                    "https://podcast.duolingo.com/episode-57-the-final-escape-the-rebel-thief-episode-6"
- "Episode 58: Sauvetage sur le mont Blanc (Rescue on Mont Blanc)"                               "https://podcast.duolingo.com/episode-58-sauvetage-sur-le-mont-blanc-rescue-on-mont-blanc"
- "Episode 59: Le messager des livres (The Book Messenger)"                                      "https://podcast.duolingo.com/episode-59-le-messager-des-livres-the-book-messenger"
- "Episode 60: Sauver la langue bretonne (Saving the Breton Language)"                           "https://podcast.duolingo.com/episode-60-sauver-la-langue-bretonne-saving-the-breton-language"
- "Episode 61: Les tableaux volés (The Stolen Paintings)"                                        "https://podcast.duolingo.com/episode-61-les-tableaux-voles-the-stolen-paintings"
- "Episode 62: Pour l’amour du rap (For the Love of Rap)"                                        "https://podcast.duolingo.com/episode-62-pour-lamour-du-rap-for-the-love-of-rap"
- "Episode 63: La rameuse paralympique (The Paralympic Rower)"                                   "https://podcast.duolingo.com/episode-63-la-rameuse-paralympique-the-paralympic-rower"
- "Episode 64: La chocolatière (The Chocolate Maker)"                                            "https://podcast.duolingo.com/episode-64-la-chocolatiere-the-chocolate-maker"
+ - ["Bonus Episode: Ask Me Anything — Your Listener Questions Answered"                            ]("https://podcast.duolingo.com/bonus-episode-ask-me-anything-your-listener-questions-answered")
+ - ["Episode 1: Le magicien des baguettes (The Baguette Magician)"                                 ]("https://podcast.duolingo.com/episode-1-le-magicien-des-baguettes-the-baguette-magician")
+ - ["Episode 2: Entre deux mondes (Between Two Worlds)"                                            ]("https://podcast.duolingo.com/episode-2-entre-deux-mondes-between-two-worlds")
+ - ["Episode 3: Partir du paradis (Leaving Paradise)"                                              ]("https://podcast.duolingo.com/episode-3-partir-du-paradis-leaving-paradise")
+ - ["Episode 4: Le vigneron rebelle (The Rebel Winemaker)"                                         ]("https://podcast.duolingo.com/episode-4-le-vigneron-rebelle-the-rebel-winemaker")
+ - ["Episode 5: Le paysan (The Countryman)"                                                        ]("https://podcast.duolingo.com/episode-5-le-paysan-the-countryman")
+ - ["Episode 6: Le surfeur sans limites (The Surfer Without Limits)"                               ]("https://podcast.duolingo.com/episode-6-le-surfeur-sans-limites-the-surfer-without-limits")
+ - ["Episode 7: La mélodie de la Martinique (The Sound of Martinique)"                             ]("https://podcast.duolingo.com/episode-7-la-melodie-de-la-martinique-the-sound-of-martinique")
+ - ["Episode 8: Comment je m’appelle ? (What’s My Name?)"                                          ]("https://podcast.duolingo.com/episode-8-comment-je-mappelle-whats-my-name")
+ - ["Episode 9: Le pouvoir du foot (Soccer Power)"                                                 ]("https://podcast.duolingo.com/episode-9-le-pouvoir-du-foot-soccer-power")
+ - ["Episode 10: La chasseuse de la particule (The Particle Hunter)"                               ]("https://podcast.duolingo.com/episode-10-la-chasseuse-de-la-particule-the-particle-hunter")
+ - ["Episode 11: Le clown « undercover » (The Undercover Clown)"                                   ]("https://podcast.duolingo.com/episode-11-le-clown-undercover-the-undercover-clown")
+ - ["Episode 12: L’amour après le deuil (Love After Grief)"                                        ]("https://podcast.duolingo.com/episode-12-lamour-apres-le-deuil-love-after-grief")
+ - ["Episode 13: Héros malgré eux (The Unlikely Heroes)"                                           ]("https://podcast.duolingo.com/episode-13-heros-malgre-eux-the-unlikely-heroes")
+ - ["Episode 14: La championne du fromage (The Cheese Champion)"                                   ]("https://podcast.duolingo.com/episode-14-la-championne-du-fromage-the-cheese-champion")
+ - ["Episode 15: L’aquanaute (The Aquanaut)"                                                       ]("https://podcast.duolingo.com/episode-15-laquanaute-the-aquanaut")
+ - ["Episode 16: Rêves d’une Karateka (Karate Dreams)"                                             ]("https://podcast.duolingo.com/episode-16-reves-dune-karateka-karate-dreams")
+ - ["Episode 17: En scène avec Jacques Brel (In the Spotlight with Jacques Brel)"                  ]("https://podcast.duolingo.com/episode-17-en-scene-avec-jacques-brel-in-the-spotlight-with-jacques-brel")
+ - ["Episode 18: Surfer au Sénégal (Surfing in Senegal)"                                           ]("https://podcast.duolingo.com/episode-18-surfer-au-senegal-surfing-in-senegal")
+ - ["Episode 19: Le Top Chef (The Top Chef)"                                                       ]("https://podcast.duolingo.com/episode-19-le-top-chef-the-top-chef")
+ - ["Episode 20: Dessiner un nouveau départ (Drawing a New Beginning)"                             ]("https://podcast.duolingo.com/episode-20-dessiner-un-nouveau-depart-drawing-a-new-beginning")
+ - ["Episode 21: Trouver sa voix (Speaking Out)"                                                   ]("https://podcast.duolingo.com/episode-21-trouver-sa-voix-speaking-out")
+ - ["Episode 22: Une chanson révolutionnaire (A Song of Revolution)"                               ]("https://podcast.duolingo.com/episode-22-une-chanson-revolutionnaire-a-song-of-revolution")
+ - ["Episode 23: La course au sommet de la tour Eiffel (The Race to the Top of the Eiffel Tower)"  ]("https://podcast.duolingo.com/episode-23-la-course-au-sommet-de-la-tour-eiffel-the-race-to-the-top-of-the-eiffel-tower")
+ - ["Episode 24: Le boulanger de l’Afghanistan (The Baker from Afghanistan)"                       ]("https://podcast.duolingo.com/episode-24-le-boulanger-de-lafghanistan-the-baker-from-afghanistan")
+ - ["Episode 25: Défier un dictateur (Defying a Dictator)"                                         ]("https://podcast.duolingo.com/episode-25-defier-un-dictateur-defying-a-dictator")
+ - ["Episode 26: La joie du cancan (The Joy of Cancan)"                                            ]("https://podcast.duolingo.com/episode-26-la-joie-du-cancan-the-joy-of-cancan")
+ - ["Episode 27: Le caporal canadien-français (The French Canadian Corporal)"                      ]("https://podcast.duolingo.com/episode-27-le-caporal-canadien-francais-the-french-canadian-corporal")
+ - ["Episode 28: Le nom caché (The Hidden Name)"                                                   ]("https://podcast.duolingo.com/episode-28-le-nom-cache-the-hidden-name")
+ - ["Episode 29: Le petit apiculteur (The Beekeeper Kid)"                                          ]("https://podcast.duolingo.com/episode-29-le-petit-apiculteur-the-beekeeper-kid")
+ - ["Episode 30: Les santons de Noël (The Little Christmas Figures)"                               ]("https://podcast.duolingo.com/episode-30-les-santons-de-noel-the-little-christmas-figures")
+ - ["Episode 31: Les moines brasseurs (The Beer-Brewing Monks)"                                    ]("https://podcast.duolingo.com/episode-31-les-moines-brasseurs-the-beer-brewing-monks")
+ - ["Episode 32: 38 gamins (38 kids)"                                                              ]("https://podcast.duolingo.com/episode-32-38-gamins-38-kids")
+ - ["Episode 33: L’amour et les chevaux sauvages (Love and Wild Horses)"                           ]("https://podcast.duolingo.com/episode-33-lamour-et-les-chevaux-sauvages-love-and-wild-horses")
+ - ["Episode 34: La coureuse de Bamako (The Runner from Bamako)"                                   ]("https://podcast.duolingo.com/episode-34-la-coureuse-de-bamako-the-runner-from-bamako")
+ - ["Episode 35: La voix de la France (The Voice of France)"                                       ]("https://podcast.duolingo.com/episode-35-la-voix-de-la-france-the-voice-of-france")
+ - ["Episode 36: Les rebelles écolos (The Eco Rebels)"                                             ]("https://podcast.duolingo.com/episode-36-les-rebelles-ecolos-the-eco-rebels")
+ - ["Episode 37: Étretat, mon amour (Étretat, My Love)"                                            ]("https://podcast.duolingo.com/episode-37-etretat-mon-amour-etretat-my-love")
+ - ["Episode 38: Lyon, mon amour (Lyon, My Love)"                                                  ]("https://podcast.duolingo.com/episode-38-lyon-mon-amour-lyon-my-love")
+ - ["Episode 39: Lausanne, mon amour (Lausanne, My Love)"                                          ]("https://podcast.duolingo.com/episode-39-lausanne-mon-amour-lausanne-my-love")
+ - ["Episode 40: Madagascar, mon amour (Madagascar, My Love)"                                      ]("https://podcast.duolingo.com/episode-40-madagascar-mon-amour-madagascar-my-love")
+ - ["Episode 41: Mont-Saint-Michel, mon amour (Mont-Saint-Michel, My Love)"                        ]("https://podcast.duolingo.com/episode-41-mont-saint-michel-mon-amour-mont-saint-michel-my-love")
+ - ["Episode 42: Polynésie, mon amour (Polynesia, My Love)"                                        ]("https://podcast.duolingo.com/episode-42-polynesie-mon-amour-polynesia-my-love")
+ - ["Episode 43: Une visite guidée du Paris noir (A Tour of Black Paris)"                          ]("https://podcast.duolingo.com/episode-43-une-visite-guidee-du-paris-noir-a-tour-of-black-paris")
+ - ["Episode 44: Le plus jeune maire de France (The Youngest Mayor in France)"                     ]("https://podcast.duolingo.com/episode-44-le-plus-jeune-maire-de-france-the-youngest-mayor-in-france")
+ - ["Episode 45: Changer de camp (Switching Sides)"                                                ]("https://podcast.duolingo.com/episode-45-changer-de-camp-switching-sides")
+ - ["Episode 46: La chanteuse des îles (The Island Singer)"                                        ]("https://podcast.duolingo.com/episode-46-la-chanteuse-des-iles-the-island-singer")
+ - ["Episode 47: L’élève courageuse (The Courageous Student)"                                      ]("https://podcast.duolingo.com/episode-47-leleve-courageuse-the-courageous-student")
+ - ["Episode 48: La comédienne de balcon (The Balcony Performer)"                                  ]("https://podcast.duolingo.com/episode-48-la-comedienne-de-balcon-the-balcony-performer")
+ - ["Episode 49: Reconstruire le travail d’une vie (Rebuilding a Life’s Work)"                     ]("https://podcast.duolingo.com/episode-49-reconstruire-le-travail-dune-vie-rebuilding-a-lifes-work")
+ - ["Episode 50: Le grand pari (The Big Gamble)"                                                   ]("https://podcast.duolingo.com/episode-50-le-grand-pari-the-big-gamble")
+ - ["Episode 51: La reine du codage (The Coding Queen)"                                            ]("https://podcast.duolingo.com/episode-51-la-reine-du-codage-the-coding-queen")
+ - ["Episode 52: The Making of a Thief - The Rebel Thief, Episode 1"                               ]("https://podcast.duolingo.com/episode-52-the-making-of-a-thief-the-rebel-thief-episode-1")
+ - ["Episode 53: The First Heist - The Rebel Thief, Episode 2"                                     ]("https://podcast.duolingo.com/episode-53-the-first-heist-the-rebel-thief-episode-2")
+ - ["Episode 54: The Night Crew - The Rebel Thief, Episode 3"                                      ]("https://podcast.duolingo.com/episode-54-the-night-crew-the-rebel-thief-episode-3")
+ - ["Episode 55: To Catch a Thief - The Rebel Thief, Episode 4"                                    ]("https://podcast.duolingo.com/episode-55-to-catch-a-thief-the-rebel-thief-episode-4")
+ - ["Episode 56: The Trial - The Rebel Thief, Episode 5"                                           ]("https://podcast.duolingo.com/episode-56-the-trial-the-rebel-thief-episode-5")
+ - ["Episode 57: The Final Escape - The Rebel Thief, Episode 6"                                    ]("https://podcast.duolingo.com/episode-57-the-final-escape-the-rebel-thief-episode-6")
+ - ["Episode 58: Sauvetage sur le mont Blanc (Rescue on Mont Blanc)"                               ]("https://podcast.duolingo.com/episode-58-sauvetage-sur-le-mont-blanc-rescue-on-mont-blanc")
+ - ["Episode 59: Le messager des livres (The Book Messenger)"                                      ]("https://podcast.duolingo.com/episode-59-le-messager-des-livres-the-book-messenger")
+ - ["Episode 60: Sauver la langue bretonne (Saving the Breton Language)"                           ]("https://podcast.duolingo.com/episode-60-sauver-la-langue-bretonne-saving-the-breton-language")
+ - ["Episode 61: Les tableaux volés (The Stolen Paintings)"                                        ]("https://podcast.duolingo.com/episode-61-les-tableaux-voles-the-stolen-paintings")
+ - ["Episode 62: Pour l’amour du rap (For the Love of Rap)"                                        ]("https://podcast.duolingo.com/episode-62-pour-lamour-du-rap-for-the-love-of-rap")
+ - ["Episode 63: La rameuse paralympique (The Paralympic Rower)"                                   ]("https://podcast.duolingo.com/episode-63-la-rameuse-paralympique-the-paralympic-rower")
+ - ["Episode 64: La chocolatière (The Chocolate Maker)"                                            ]("https://podcast.duolingo.com/episode-64-la-chocolatiere-the-chocolate-maker")
