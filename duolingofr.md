@@ -63,3 +63,4 @@
  - ["Episode 62: Pour l’amour du rap (For the Love of Rap)"                                        ](https://podcast.duolingo.com/episode-62-pour-lamour-du-rap-for-the-love-of-rap)
  - ["Episode 63: La rameuse paralympique (The Paralympic Rower)"                                   ](https://podcast.duolingo.com/episode-63-la-rameuse-paralympique-the-paralympic-rower)
  - ["Episode 64: La chocolatière (The Chocolate Maker)"                                            ](https://podcast.duolingo.com/episode-64-la-chocolatiere-the-chocolate-maker)
+ - ["Episode 65: La course en solitaire (The Solo Race)"]                                          ](https://podcast.duolingo.com/episode-65-la-course-en-solitaire-the-solo-race)
